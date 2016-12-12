@@ -1,0 +1,3 @@
+use LigaFotbal
+
+CREATE TABLE Tara(idTara INT IDENTITY(1,1) PRIMARY KEY, nume VARCHAR(50) DEFAULT '')
